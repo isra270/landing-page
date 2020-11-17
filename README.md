@@ -20,7 +20,7 @@ I begin with build li in ul depend on number of sections in page.
 I create li , a and id of section is data-nav of a , data-nav of section is the text of a
 then append li in document fragment and appended it into ul.
 
-##section active 
+## section active 
 section active based on section in view port I used method `getBoundingClientRect()`
 to show section in view port that is active section 
 then made active link based on section active.
@@ -28,5 +28,5 @@ then made active link based on section active.
 ## scroll in section when I click on link
 when click in link data-nave  that is equal the section id.
 
-##run project
+## run project
 run `index.html`
